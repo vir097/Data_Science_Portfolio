@@ -1,4 +1,4 @@
-<h1 align="center"> Shaloy's Data Science Portfolio</h1>
+<h1 align="center"> Viral's Data Science Portfolio</h1>
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
